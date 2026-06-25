@@ -1,0 +1,9 @@
+POST http://localhost:8080/products/dto
+Content-Type: application/json
+
+{
+  "name":"Monitor",
+  "description":"24 inch monitor",
+  "price":12000,
+  "stock":8
+}
